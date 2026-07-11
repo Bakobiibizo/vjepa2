@@ -1,4 +1,6 @@
 
+> **Integration fork:** This fork tracks Meta's implementation and adds reproducible environment/checkpoint tooling. See [FORK.md](FORK.md). Check a host with `python scripts/check_environment.py --json`.
+
 🆕 **[2026-03-16]:** :fire: V-JEPA 2.1 is released :fire: A new familly of models trained with a novel recipe that learns high quality and temporolly consistent dense features !!!
 
 **[2025-06-25]:** V-JEPA 2 is released. [[`Blog`](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks)]
